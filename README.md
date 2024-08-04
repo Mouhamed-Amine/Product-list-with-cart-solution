@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL here](https://your-solution-url.com)
-- Live Site URL: [ live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/product-list-with-cart-solution-xnZ0Y1yuyu))
+- Live Site URL: [ live site URL here](https://product-list-with-cart-solution.vercel.app)
 
 ## My process
 
