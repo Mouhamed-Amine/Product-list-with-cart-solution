@@ -125,7 +125,7 @@ const proudOfThisFunc = () => {
 
 - Website - akchouche Mouhamed Amine(https://port-4391f.web.app/)
 - Frontend Mentor - [@Mouhamed-Amine](https://www.frontendmentor.io/profile/yourusername)
-- LinkedIn - (https://www.linkedin.com/in/mouhamed-amine-531036187/)
+- LinkedIn - (https://www.linkedin.com/in/mouhamed-amine/)
 
 
 ## Acknowledgments
